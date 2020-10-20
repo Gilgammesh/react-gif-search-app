@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas unitarias en el componente GifGrid.js se debe mostrar el componente <GifGrid /> correctamente 1`] = `
+<Fragment>
+  <hr />
+  <h3
+    className="animate__animated animate__fadeIn"
+  >
+    NARUTO
+  </h3>
+  <h4
+    className="animate__animated animate__flush"
+  >
+    Cargando ...
+  </h4>
+  <div
+    className="card-grid"
+  />
+</Fragment>
+`;
